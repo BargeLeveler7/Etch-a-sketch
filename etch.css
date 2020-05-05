@@ -1,0 +1,29 @@
+body {
+	background-color: slategrey;
+}
+
+.hover {
+	background-color: whitesmoke;
+	color: red;
+}
+
+.title {
+	color: whitesmoke;
+	font: oblique;
+}
+.reset {
+	border-radius: 5px;
+	background-color: whitesmoke;
+}
+
+.rainbow {
+	border-radius: 5px;
+	background-color: whitesmoke;
+}
+
+.selected {
+	border-radius: 7px;
+	background-color: #1e9fa8;
+}
+#container {
+}
