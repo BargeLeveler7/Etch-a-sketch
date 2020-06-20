@@ -1,0 +1,35 @@
+body {
+	background-color: slategrey;
+}
+
+.hover {
+	background-color: whitesmoke;
+	color: red;
+}
+
+.title {
+	color: whitesmoke;
+	font: oblique;
+}
+.reset {
+	border-radius: 5px;
+	background-color: whitesmoke;
+}
+
+.rainbow {
+	border-radius: 5px;
+	background-color: whitesmoke;
+}
+
+.selected {
+	border-radius: 7px;
+	color: whitesmoke;
+	background: #bbd2c5; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #536976, #bbd2c5); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #536976, #bbd2c5);
+}
+
+.header {
+	text-align: center;
+	float: none;
+}
