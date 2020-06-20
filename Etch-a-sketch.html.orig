@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<<<<<<< HEAD
+    <title>Etch a Sketch</title>
+=======
+    <title>Etch-a-Sketch</title>
+>>>>>>> 67d1bb30b55cd46643767d11a0d0dd344ca25df4
+    <link rel="stylesheet" href="etch.css">
+    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+</head>
+
+<body>
+<<<<<<< HEAD
+    <div class="header">
+        <h1 class="title">Etch a Sketch!</h1>
+        <button class="reset">New grid</button>
+        <button class="rainbow">Rainbow Edition</button>
+    </div>
+    
+=======
+    <h1 class="title">Etch a Sketch!</h1>
+    <button class="reset">New grid</button>
+    <button class="rainbow">Rainbow Edition</button>
+>>>>>>> 67d1bb30b55cd46643767d11a0d0dd344ca25df4
+    <div id="container">
+    </div>
+
+    <script src="Etch.js"></script>
+</body>
+</html>
+
+<<<<<<< HEAD
+=======
+<!-- // Issues - 
+2 - hover jquery is only working on squares that are there when the page loads.
+-->
+>>>>>>> 67d1bb30b55cd46643767d11a0d0dd344ca25df4
