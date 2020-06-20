@@ -12,9 +12,14 @@ $('.reset').on('click', function() {
 });
 
 $('.rainbow').on('click', function() {
+<<<<<<< HEAD
 	$(this).toggleClass('selected');
 	clearBoard();
 	rainbow = !rainbow;
+=======
+	clearBoard();
+	rainbow = true;
+>>>>>>> 67d1bb30b55cd46643767d11a0d0dd344ca25df4
 	createBoard();
 });
 
@@ -34,7 +39,11 @@ function createBoard() {
 		}
 	}
 	$('.square').on('mouseenter', function() {
+<<<<<<< HEAD
 		if (timesHovered > 200) {
+=======
+		if (timesHovered > 15) {
+>>>>>>> 67d1bb30b55cd46643767d11a0d0dd344ca25df4
 			console.log("you've hovered a lot!");
 		}
 		if (!rainbow) {

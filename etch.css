@@ -23,6 +23,7 @@ body {
 
 .selected {
 	border-radius: 7px;
+<<<<<<< HEAD
 	color: whitesmoke;
 	background: #bbd2c5; /* fallback for old browsers */
 	background: -webkit-linear-gradient(to right, #536976, #bbd2c5); /* Chrome 10-25, Safari 5.1-6 */
@@ -32,4 +33,9 @@ body {
 .header {
 	text-align: center;
 	float: none;
+=======
+	background-color: #1e9fa8;
+}
+#container {
+>>>>>>> 67d1bb30b55cd46643767d11a0d0dd344ca25df4
 }
