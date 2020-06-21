@@ -1,5 +1,5 @@
 let container = document.getElementById('container');
-let numSquares = 8;
+let numSquares = 32;
 let timesHovered = 0;
 let rainbow = false;
 createBoard();
